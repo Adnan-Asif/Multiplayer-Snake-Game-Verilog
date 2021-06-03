@@ -7,7 +7,7 @@ Digital Logic Design (DLD).
 - A PS2 keyboard for input
 - A VGA monitor to display the output 
 
-# Game Instructions::
+# Game Instructions
 - Player1 would use the arrow keys | Player2 would use wsda to control its snake 
 - Their would be one food to be collected at a time 
 - The snake that collects the food first, gets the point and another food is generated at a random position. 
